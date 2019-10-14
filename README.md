@@ -17,12 +17,10 @@
 
 # 作者
 - [macs1207](https://github.com/macs1207)
-- []()
+- [daidaidarwa](https://github.com/daidaidarwa)
 
 # 校閱
 - [jp6ru8958958](https://github.com/jp6ru8958958)
-
-# 
 
 # 參考資料
 - [x-village/python-course](https://github.com/x-village/python-course)
