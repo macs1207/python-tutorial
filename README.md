@@ -18,6 +18,7 @@
 # 作者
 - [*M](https://github.com/macs1207)
 - [Daiwa](https://github.com/daidaidarwa)
+- [C.H](https://github.com/chrisliu430)
 
 # 校閱
 - [jp6ru8958958](https://github.com/jp6ru8958958)
