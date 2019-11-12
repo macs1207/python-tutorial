@@ -17,6 +17,10 @@
     1. [判斷式](https://hackmd.io/@macs1207/r1llzfmYr#/2)
     2. [迴圈](https://hackmd.io/@macs1207/r1llzfmYr#/3)
     3. [函式](https://hackmd.io/@macs1207/r1llzfmYr#/5)
+- [CH4 Python[3]](https://hackmd.io/@macs1207/SkpRISvjr#/)
+    1. [封包](https://hackmd.io/@macs1207/SkpRISvjr#/2)
+    2. [requests](https://hackmd.io/@macs1207/SkpRISvjr#/3)
+    3. [DOM解析](https://hackmd.io/@macs1207/SkpRISvjr#/4)
 
 
 # 作者
