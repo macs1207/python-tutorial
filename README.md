@@ -20,7 +20,9 @@
 - [CH4 Python[3]](https://hackmd.io/@macs1207/SkpRISvjr#/)
     1. [封包](https://hackmd.io/@macs1207/SkpRISvjr#/2)
     2. [requests](https://hackmd.io/@macs1207/SkpRISvjr#/3)
-    3. [DOM解析](https://hackmd.io/@macs1207/SkpRISvjr#/4)
+- [CH5 Python[4]](https://hackmd.io/@macs1207/HJF56PlnS#/)
+    1. [DOM解析](https://hackmd.io/@macs1207/HJF56PlnS#/2)
+    2. [API](https://hackmd.io/@macs1207/HJF56PlnS#/3)
 
 
 # 作者
