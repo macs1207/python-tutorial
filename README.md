@@ -23,6 +23,8 @@
 - [CH5 Python[4]](https://hackmd.io/@macs1207/HJF56PlnS#/)
     1. [DOM解析](https://hackmd.io/@macs1207/HJF56PlnS#/2)
     2. [API](https://hackmd.io/@macs1207/HJF56PlnS#/3)
+- [CH6 Python[5]](https://hackmd.io/@macs1207/BkU_hwqnS#)
+    1. [Flask](https://hackmd.io/@macs1207/BkU_hwqnS#/2)
 
 
 # 作者
