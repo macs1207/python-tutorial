@@ -25,6 +25,8 @@
     2. [API](https://hackmd.io/@macs1207/HJF56PlnS#/3)
 - [CH6 Python[5]](https://hackmd.io/@macs1207/BkU_hwqnS#)
     1. [Flask](https://hackmd.io/@macs1207/BkU_hwqnS#/2)
+- [CH7 Python[6]](https://hackmd.io/@macs1207/HJCrrO76r#)
+    1. [Tkinter](https://hackmd.io/@macs1207/HJCrrO76r#/2)
 
 
 # 作者
